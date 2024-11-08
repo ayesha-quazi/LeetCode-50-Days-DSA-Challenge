@@ -9,3 +9,6 @@ class Solution {
         return ++j; 
     }
 }
+
+// Time complexity: O(N) as here we could 've many nums so we've used 'N'
+// Space complexity: O(1) this 'll remain the same.
